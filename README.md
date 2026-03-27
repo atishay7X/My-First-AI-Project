@@ -26,19 +26,21 @@ Status                  Meaning
 
 🛠️ Tech & Concepts Used
 
-Python — core language
-collections.defaultdict — efficient pattern/frequency storage
-N-Gram modeling — sequence-based prediction (same idea used in text prediction)
-Greedy prediction — always counters the most likely predicted move
+Python — core language----
+1.collections.defaultdict — efficient pattern/frequency storage
+2.N-Gram modeling — sequence-based prediction (same idea used in text prediction)
+3.Greedy prediction — always counters the most likely predicted move
 
-🚀 How to Run
+🚀 How to Run ---
 bashpython rock_paper_scissors.py
 No external libraries needed — runs on pure Python! ✅
 
 
 💡 Key Learning Outcomes
 
-Understanding pattern recognition in games
-Applying frequency-based prediction models
-Building a simple adaptive AI without machine learning libraries
+1.Understanding pattern recognition in games
+
+2.Applying frequency-based prediction models
+
+3.Building a simple adaptive AI without machine learning libraries
 
