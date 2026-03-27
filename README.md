@@ -4,8 +4,12 @@
 
 🎮 Rock Paper Scissors — AI Pattern Learning Game
 
+
+
 📌 Overview
 A command-line Rock Paper Scissors game built in Python where you don't just play against a random bot — you play against an AI that actively learns your move patterns and adapts its strategy to beat you.
+
+
 
 
 
@@ -35,6 +39,8 @@ Status                  Meaning
 
 
 
+
+
 🛠️ Tech & Concepts Used
 
 Python — core language----
@@ -46,9 +52,18 @@ Python — core language----
 3.Greedy prediction — always counters the most likely predicted move
 
 
+
+
+
 🚀 How to Run ---
+
 bashpython rock_paper_scissors.py
+
 No external libraries needed — runs on pure Python! ✅
+
+
+
+
 
 
 💡 Key Learning Outcomes
