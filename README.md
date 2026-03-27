@@ -1,5 +1,5 @@
 # My-First-AI-Project
-
+# I have added comments in the wholw code for better understanding. Cheers!!
 
 
 🎮 Rock Paper Scissors — AI Pattern Learning Game
